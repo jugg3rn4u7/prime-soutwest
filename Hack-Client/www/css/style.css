@@ -1,0 +1,40 @@
+/* Empty. Add your own CSS if you like */
+
+.connection-member-container {
+  height: 70%;
+  width: 100%;
+  overflow: scroll;
+}
+
+
+.connection-member {
+  padding: 5px 5px 5px 5px;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.connection-member .connected {
+  color: green;
+}
+
+
+.footer {
+  height: 60px;
+}
+
+.talk-button {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: green;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  font-family: "Avenir Next";
+  font-size: 25px;
+}
